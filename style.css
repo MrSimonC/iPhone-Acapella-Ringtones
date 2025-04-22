@@ -1,0 +1,67 @@
+body {
+    background: linear-gradient(120deg, #f8fafc 0%, #e0e7ff 100%);
+    font-family: 'Segoe UI', 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    min-height: 100vh;
+}
+.container {
+    max-width: 500px;
+    margin: 40px auto;
+    background: #fff;
+    border-radius: 18px;
+    box-shadow: 0 4px 24px rgba(60, 72, 88, 0.12);
+    padding: 32px 24px 18px 24px;
+}
+header {
+    text-align: center;
+    margin-bottom: 24px;
+}
+header h1 {
+    margin: 0 0 8px 0;
+    font-size: 2.2rem;
+    color: #3b3b5c;
+}
+header p {
+    color: #6b7280;
+    font-size: 1.1rem;
+}
+.ringtone-list {
+    list-style: none;
+    padding: 0;
+    margin: 0 0 24px 0;
+}
+.ringtone-list li {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 14px 0;
+    border-bottom: 1px solid #f1f1f1;
+    font-size: 1.08rem;
+}
+.ringtone-list li:last-child {
+    border-bottom: none;
+}
+.download-btn {
+    background: #6366f1;
+    color: #fff;
+    text-decoration: none;
+    padding: 7px 18px;
+    border-radius: 6px;
+    font-weight: 500;
+    transition: background 0.2s;
+    box-shadow: 0 2px 8px rgba(99, 102, 241, 0.08);
+}
+.download-btn:hover {
+    background: #4338ca;
+}
+footer {
+    text-align: center;
+    color: #a1a1aa;
+    font-size: 0.98rem;
+    margin-top: 18px;
+}
+footer a {
+    color: #6366f1;
+    text-decoration: underline;
+}
