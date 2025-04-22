@@ -1,0 +1,1 @@
+Inspired by comments in reddit post here, https://www.reddit.com/r/apple/comments/1k3rnin/iphone_sound_effect_acapella/ someone liked a video of acapella iPhone sounds and suggested someone cut them up and host them. This is that site, all made by AI, all cut up, hosted, uploaded and published in under 30 mins (as a challenge to myself)!
